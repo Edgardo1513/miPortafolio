@@ -1,0 +1,61 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.photo{
+    width: 130px;
+    height: 15vh;
+    border-radius: 50%;
+}
+.card{
+    display: flex;
+    justify-content: center;
+    
+}
+
+.footer{
+    display: flex;
+    justify-content: center;
+}
+.ico{
+    width: 40px;
+    height: 40px;
+    border-radius: 50px;
+}
+i{
+   
+    width: 7%;
+    height: 2vh;
+    color: rgb(75, 222, 141);
+    font-size: 60px;
+    text-shadow: 19px -4px 4px orange;
+}
+
+.icon{
+    margin: 50px;
+    width: 20%;
+    height: 20vh;
+    color: rgb(6, 173, 81);
+    font-size: 20px;   
+}
+
+span{
+    color: rgba(255, 255, 255, 0.458);
+}
+
+h1, h3{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+small{
+    color: rgba(236, 179, 72, 0.826);
+}
+
+h2{
+    padding: 5px;
+    width: 70%;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    text-shadow: -13px -8px 8px;
+}
+
